@@ -42,3 +42,17 @@ The dataset contains T1-weighted contrast-enhanced MRI images categorized into:
 - NumPy
 
 ---
+
+## 🧪 Getting Started
+
+The full implementation of this project is provided in the Jupyter Notebook file:
+
+📘 `brain_tumor_multi_classification.ipynb`
+
+To run the code:
+
+1. Make sure you have Jupyter Notebook installed (you can install it via `pip install notebook` or using Anaconda).
+2. Open the terminal and run:
+3. Navigate to the file `brain_tumor_mutli_classification.ipynb` and open it in your browser.
+
+---
