@@ -1,2 +1,4 @@
-# brainTumor
-i will add it later
+# brainTumor 
+The Cdoe, and the DataSet are presented in this repo
+
+
